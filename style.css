@@ -23,3 +23,22 @@ color:rgb(220, 218, 218);
     color:white;
     border-radius: 10%;
   }
+  .cardimg{
+   width: 80%;
+   height: 430px;
+     background-image: url(https://freshcart.codescandy.com/assets/images/banner/banner-deal.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     border-radius: 2%;
+     margin-top: 10px;
+    
+  }
+  .left>.cardimg{
+    display: flex;
+  }
+  .cardimg>.p2{
+    font-size: 30px;
+    padding: 15px;
+    padding-top: 30px;
+  }
+  
